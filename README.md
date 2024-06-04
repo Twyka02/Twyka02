@@ -1,0 +1,3 @@
+- I'm Tyler!
+- Currently learning how to model energy technologies in Python and Matlab
+- Twyka02@gwmail.gwu.edu
